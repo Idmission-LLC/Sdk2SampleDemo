@@ -19,10 +19,11 @@ import kotlinx.coroutines.withContext
 class MainActivity : AppCompatActivity() {
     var initializeApiBaseUrl = "https://demo.idmission.com/"
     var apiBaseUrl = "https://apidemo.idmission.com/"
-    var loginID = "SDK_C"
-    var password = "Idmission#2"
-    var merchantID: Long = 12511
-    var productID = 4130
+    //TODO update your loginID, password, MerchantID and productID
+    var loginID = ""
+    var password = ""
+    var merchantID: Long = 0
+    var productID = 0
     var productName = "Identity_Validation_and_Face_Matching"
     var lang = "EN"
     var isSDKinit = false
