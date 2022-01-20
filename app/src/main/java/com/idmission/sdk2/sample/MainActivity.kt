@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
     var productName = "Identity_Validation_and_Face_Matching"
     var lang = "EN"
     var isSDKinit = false
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
