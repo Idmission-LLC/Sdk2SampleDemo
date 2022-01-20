@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41866827931",
+    "firebase_url": "https://evolv-showcase.firebaseio.com",
+    "project_id": "evolv-showcase",
+    "storage_bucket": "evolv-showcase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41866827931:android:76f911d7f7e36753be0e3e",
+        "android_client_info": {
+          "package_name": "com.idmission.sdk2.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41866827931-4pa6qh4vbr9r7pu8s6p6aeq1okaad3m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsmXeAJnJQr7I78Y-jYG2UuspfLGhzbeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41866827931-4pa6qh4vbr9r7pu8s6p6aeq1okaad3m6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41866827931-ckduo0auc2a3i731mgb66s986ghkqs3s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idmission.appit-ios",
+                "app_store_id": "1020084077"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
