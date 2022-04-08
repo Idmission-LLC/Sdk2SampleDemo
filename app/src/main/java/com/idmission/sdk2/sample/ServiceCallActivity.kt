@@ -6,10 +6,10 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.ProgressBar
-import com.idmission.capture.IdMissionCaptureLauncher
-import com.idmission.capture.presentation.camera.helpers.ProcessedCapture
-import com.idmission.identityproofing.IdentityProofingSDK
 import com.idmission.sdk2.R
+import com.idmission.sdk2.capture.IdMissionCaptureLauncher
+import com.idmission.sdk2.capture.presentation.camera.helpers.ProcessedCapture
+import com.idmission.sdk2.identityproofing.IdentityProofingSDK
 
 class ServiceCallActivity : AppCompatActivity() {
     private var processedCaptures: List<ProcessedCapture>? = null

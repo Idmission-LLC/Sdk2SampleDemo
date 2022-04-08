@@ -11,9 +11,9 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.google.android.datatransport.cct.internal.LogResponse.fromJson
 import com.google.gson.Gson
-import com.idmission.capture.analysis.FaceMatch
-import com.idmission.capture.presentation.camera.helpers.ProcessedCapture
 import com.idmission.sdk2.R
+import com.idmission.sdk2.capture.analysis.FaceMatch
+import com.idmission.sdk2.capture.presentation.camera.helpers.ProcessedCapture
 import org.json.JSONObject
 
 

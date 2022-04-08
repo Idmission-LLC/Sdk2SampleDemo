@@ -5,12 +5,12 @@ import android.os.Bundle
 import android.view.View
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
-import com.idmission.client.model.InitializeResponse
-import com.idmission.client.model.Response
-import com.idmission.client.model.UiCustomizationOptions
-import com.idmission.identityproofing.IdentityProofingSDK
 import com.idmission.sdk2.R
-import com.idmission.utils.LANGUAGE
+import com.idmission.sdk2.client.model.InitializeResponse
+import com.idmission.sdk2.client.model.Response
+import com.idmission.sdk2.client.model.UiCustomizationOptions
+import com.idmission.sdk2.identityproofing.IdentityProofingSDK
+import com.idmission.sdk2.utils.LANGUAGE
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -54,10 +54,9 @@ class MainActivity : AppCompatActivity() {
                         edtLogin.text.toString(),
                         edtPassword.text.toString(),
                         edtMerchantId.text.toString().toLong(),
-                        true,
-                        false,
-                        UiCustomizationOptions(LANGUAGE.valueOf(lang), null, null, null, null, null, null)
-                        )
+                        uiCustomizationOptions = UiCustomizationOptions(LANGUAGE.valueOf(lang)),
+                        enableDebug = false)
+
                 }
                 if (response.errorStatus==null){
                     isSDKinit = true
