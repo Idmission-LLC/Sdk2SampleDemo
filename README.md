@@ -21,6 +21,9 @@ The IDmission IDentity SDK is a comprehensive toolkit that enables the use of an
 
 The main features supported in this SDK are:
 <br/>
+- [Live face Check](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/live-face-check.html)<br/>
+- [ID Validation](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/id-validation.html)<br/>
+- [ID Validation and face match](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/id-validation-and-match-face.html)<br/>
 - [Enrollment](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/id-validation-andcustomer-enroll.html)<br/>
 - [Enrollment with Biometrics](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/customer-enroll-biometrics.html)<br/>
 - [Customer Verification](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/customer-verification.html)<br/>
@@ -167,7 +170,7 @@ class LaunchActivity : Activity() {
 
 ## SDK documentation
 
-You can find SDK documentation [here](https://lab-api.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/index.html)
+You can find SDK documentation [here](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/index.html)
 
 ## SDK Flavours
 - Identity SDK
