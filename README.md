@@ -12,7 +12,7 @@ This guide details processes and procedures for embedding the IDentity SDK into 
 The IDmission IDentity SDK is a comprehensive toolkit that enables the use of any combination of factors of identity to complete digital transformation goals. The goal of the IDentity SDK is to offer seamless integration into an existing digital paradigm where the end-to-end customer experience is still owned and managed in-house.
 
 ## Quick Links to get started with IDentity SDK for Android
-[SDK Documentation](https://lab-api.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/index.html) - Directly links to the Identity Proofing SDK
+[SDK Documentation](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/index.html) - Directly links to the Identity Proofing SDK
 <br/>
 [Sample App](https://github.com/Idmission-LLC/Sdk2SampleDemo) - Directly links to the Sample app on IDmission GitHub Repository
 
@@ -21,13 +21,12 @@ The IDmission IDentity SDK is a comprehensive toolkit that enables the use of an
 
 The main features supported in this SDK are:
 <br/>
-- [Enrollment](https://lab-api.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/id-validation-andcustomer-enroll.html)<br/>
-- [Enrollment with Biometrics](https://lab-api.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/customer-enroll-biometrics.html)<br/>
-- [Customer Verification](https://lab-api.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/customer-verification.html)<br/>
-- [ID Validation and face match](https://lab-api.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/id-validation-and-match-face.html)<br/><br/>
+- [Enrollment](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/id-validation-andcustomer-enroll.html)<br/>
+- [Enrollment with Biometrics](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/customer-enroll-biometrics.html)<br/>
+- [Customer Verification](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/customer-verification.html)<br/>
+- [ID Validation and face match](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/id-validation-and-match-face.html)<br/><br/>
 
-Additional functions are also detailed in the [SDK Documentation](https://lab-api.idmission.
-com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/index.html)
+Additional functions are also detailed in the [SDK Documentation](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/index.html)
 
 
 <br/>
