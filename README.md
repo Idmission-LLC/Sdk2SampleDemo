@@ -12,10 +12,13 @@ This guide details processes and procedures for embedding the IDentity SDK into 
 The IDmission IDentity SDK is a comprehensive toolkit that enables the use of any combination of factors of identity to complete digital transformation goals. The goal of the IDentity SDK is to offer seamless integration into an existing digital paradigm where the end-to-end customer experience is still owned and managed in-house.
 
 ## Quick Links to get started with IDentity SDK for Android
-[SDK Documentation](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/index.html) - Directly links to the Identity Proofing SDK
-<br/>
-[Sample App](https://github.com/Idmission-LLC/Sdk2SampleDemo) - Directly links to the Sample app on IDmission GitHub Repository
+SDK Flavours Download Links - As per your requirement you can downloads the below IDentitySDK / IDentityMediumSDK / IDentityLiteSDK.
 
+[Download IDentitySDK](https://github.com/Idmission-LLC/Sdk2SampleDemo) - Directly links to the IDentitySDK Sample app on IDmission GitHub Repository
+[Download IDentityMediumSDK](https://github.com/Idmission-LLC/MediumSdk2SampleDemo) - Directly links to the IDentityMediumSDK Sample app on IDmission GitHub Repository
+[Download IDentityLiteSDK](https://github.com/Idmission-LLC/LiteSdk2SampleDemo) - Directly links to the IDentityLiteSDK Sample app on IDmission GitHub Repository
+<br/>
+[SDK Documentation](https://demo-documentation.idmission.com/Android-SDK-2/-i-dentity%20-s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/index.html) - Directly links to the Identity Proofing SDK
 
 <br/>
 
@@ -176,6 +179,19 @@ You can find SDK documentation [here](https://demo-documentation.idmission.com/A
 - Identity SDK
 - IdentityMedium SDK
 - IdentityLite SDK
+
+## SDK Flavours Supported Features
+|  | Identity SDK | IdentityMedium SDK | IdentityLite SDK |
+| :---: | :---: | :---: | :---: |
+| Document Detect | On Device | On Device |On Device|
+| Rotate, crop etc. | On Device | On Server |On Server|
+| Document Realness | On Device | On Server |On Server|
+| Document Classification | On Device | On Server |On Server|
+| MRZ/Barcode reading | On Device | On Device |On Server|
+| OCR from front | On Server | On Server |On Server|
+| Face detect | On Device | On Device |On Device|
+| Liveness detect | On Device | On Device |On Device|
+| Detect hats and glasses | On Device | On Server |On Server|
 
 ## SDK Version History
 ##### v9.1.7.20
