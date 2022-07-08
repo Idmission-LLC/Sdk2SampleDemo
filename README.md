@@ -278,7 +278,6 @@ You can find SDK documentation <a href="./-i-dentity%20-s-d-k/com.idmission.sdk2
 
 |   | Identity SDK | IdentityMedium SDK | IdentityLite SDK |
 | :---: | :---: | :---: | :---: |
-|   | <B>Identity SDK | <B>IdentityMedium SDK | <B>IdentityLite SDK |
 | Document Detect | On Device | On Device |On Device|
 | Rotate, crop etc. | On Device | On Server |On Server|
 | Document Realness | On Device | On Server |On Server|
