@@ -18,7 +18,8 @@
         <activity
             android:name="com.idmission.sdk2.sample.ServiceCallActivity"
             android:exported="true" />
-        <activity android:name="com.idmission.sdk2.sample.MainActivity">
+        <activity android:name="com.idmission.sdk2.sample.MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
