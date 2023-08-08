@@ -35,7 +35,7 @@ the IDentityLiteSDK Sample app on IDmission GitHub Repository
 the IDentityVideoIDSDK Sample app on IDmission GitHub Repository*
 <br/>
 
-<a href="./-i-dentity--s-d-k/com.idmission.sdk2.identityproofing/-identity-proofing-s-d-k/index.html">
+<a href="https://documentation.idmission.com/identity/Android-SDK-2/index.html">
 SDK Documentation</a> - Directly links to the Identity Proofing SDK
 
 <br/>
