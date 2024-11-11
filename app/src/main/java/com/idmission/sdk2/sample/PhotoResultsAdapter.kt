@@ -9,12 +9,9 @@ import android.widget.TextView
 import androidx.core.view.isVisible
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.google.android.datatransport.cct.internal.LogResponse.fromJson
-import com.google.gson.Gson
 import com.idmission.sdk2.R
-import com.idmission.sdk2.capture.analysis.FaceMatch
+import com.idmission.sdk2.capture.analysis.helpers.FaceMatch
 import com.idmission.sdk2.capture.presentation.camera.helpers.ProcessedCapture
-import org.json.JSONObject
 
 
 internal class PhotoResultsAdapter : RecyclerView.Adapter<PhotoResultsViewHolder>() {
@@ -63,17 +60,6 @@ internal class PhotoResultsViewHolder(itemView: View) : RecyclerView.ViewHolder(
                 processedCapture
             )
         }
-//        Log.i("PhotoResultsViewHolder", "Photo $number")
-//        Log.i("PhotoResultsViewHolder", "timeStartedAt:      ${
-//            processedCapture.timeStartedAt!! /
-//            1000}")
-//        Log.i("PhotoResultsViewHolder", "timeDetectedAt:     ${processedCapture.timeDetectedAt!! /
-//            1000}")
-//        Log.i("PhotoResultsViewHolder", "timeWithinBoundsAt: ${processedCapture
-//            .timeWithinBoundsAt!! /
-//            1000}")
-//        Log.i("PhotoResultsViewHolder", "timeFinishedAt:     ${processedCapture.timeFinishedAt!! /
-//            1000}")
     }
 
 
