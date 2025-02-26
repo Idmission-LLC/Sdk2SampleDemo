@@ -339,7 +339,7 @@ android {
 }
 
 dependencies {  
-     implementation 'com.idmission.sdk2:signatureLib:9.6.22.1'    
+     implementation 'com.idmission.sdk2:signatureLib:10.01.04.1'    
 }
 
 ```
@@ -738,11 +738,14 @@ documentation <a href="./-i-dentity--s-d-k/com.idmission.sdk2.identityproofing/-
 here</a>
 
 ## SDK Flavours
-
 - Identity SDK
+- Identity SDK Without Models
 - IdentityMedium SDK
+- IdentityMedium SDK Without Models
 - IdentityLite SDK
+- IdentityLite SDK Without Models
 - IdentityVideoID SDK
+- IdentityVideoID SDK Without Models
 
 ## SDK Flavours Supported Features
 
