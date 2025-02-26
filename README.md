@@ -417,7 +417,7 @@ android {
 }
 
 dependencies {  
-    implementation 'com.idmission.sdk2:4FingerprintCaptureLib:9.5.9.2' 
+    implementation 'com.idmission.sdk2:4FingerprintCaptureLib:9.5.15.1' 
 }
 
 ```
